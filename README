@@ -1,0 +1,16 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3379
+
+Jump Next Long Line Plugin
+
+Vim plugin to jump to the next line that exceed the textwidth setting
+Last Change: 2010 Dec 24
+Maintainer: Caio Romão @ http://blog.caioromao.com
+License: This file is placed in the public domain
+
+Mappings:
+  <Leader>l or <Plug>JumpNextLongLine
+      Jumps to the next (too) long line
+
+This plugin doesn't have any settings.
+
+For pathogen users: https://github.com/caio/jumpnextlongline.vim
